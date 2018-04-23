@@ -5,7 +5,7 @@ import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
 import java.nio.channels.AsynchronousSocketChannel;
 
-import com.tank.nio.constant.MyConstants;
+import com.tank.constant.MyConstants;
 
 public class ClientAIO implements Runnable {
 

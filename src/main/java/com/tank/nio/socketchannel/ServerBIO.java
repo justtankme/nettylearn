@@ -10,7 +10,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
-import com.tank.nio.constant.MyConstants;
+import com.tank.constant.MyConstants;
 
 public class ServerBIO {
 	public static void server() {

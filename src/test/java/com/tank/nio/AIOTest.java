@@ -1,6 +1,6 @@
 package com.tank.nio;
 
-import com.tank.nio.constant.MyConstants;
+import com.tank.constant.MyConstants;
 import com.tank.nio.socketchannel.ClientAIO;
 import com.tank.nio.socketchannel.ServerAIO;
 

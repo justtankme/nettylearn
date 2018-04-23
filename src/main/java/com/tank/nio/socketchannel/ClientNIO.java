@@ -6,7 +6,7 @@ import java.nio.ByteBuffer;
 import java.nio.channels.SocketChannel;
 import java.util.concurrent.TimeUnit;
 
-import com.tank.nio.constant.MyConstants;
+import com.tank.constant.MyConstants;
 
 /**
  * 客户端采用NIO实现

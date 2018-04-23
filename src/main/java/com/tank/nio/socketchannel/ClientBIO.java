@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
-import com.tank.nio.constant.MyConstants;
+import com.tank.constant.MyConstants;
 
 public class ClientBIO {
 
