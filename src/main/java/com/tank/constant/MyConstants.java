@@ -5,5 +5,6 @@ public class MyConstants {
 	public static final int PORT_BIO = 8080;
 	public static final int PORT_NIO = 8081;
 	public static final int PORT_AIO = 8082;
-	public static final int PORT_NETTY = 8083;
+	
+	public static final int PORT_NETTY = 7397;
 }
