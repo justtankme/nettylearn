@@ -7,4 +7,7 @@ public class MyConstants {
 	public static final int PORT_AIO = 8082;
 	
 	public static final int PORT_NETTY = 7397;
+	
+	public static String WSURL_WEBSOCKET = "/websocket";
+	public static String WSURL_TEST = "/test";
 }

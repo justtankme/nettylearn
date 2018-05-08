@@ -32,7 +32,7 @@ public class ChannelPoolOper {
 	 * @param channel
 	 * @param message
 	 */
-	public static void sendWithout(ChannelGroup channelGroup, Channel channel, String message) {
+	public static void sendWithout(ChannelGroup channelGroup, Channel channel, Object message) {
 		channelGroup.writeAndFlush(message, ChannelMatchers.isNot(channel), false);
 	}
 }

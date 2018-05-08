@@ -1,6 +1,7 @@
-package com.tank.netty.nettyserver;
+package com.tank.netty;
 
 import com.tank.constant.MyConstants;
+import com.tank.netty.nettyserver.NettyServer;
 
 public class NettyServerTest {
 	public static void main(String[] args) {
